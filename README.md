@@ -36,9 +36,16 @@ Below is a list of the tags that are being used:
 
 Below is an example response text file (on the left) and the solution text file on the right
 
-Student file format examples:           Solution file format examples:
-    1. 23                                   1. 23 & 23.0 & 92;Multiplied by 2 instead of dividing;0.0 & 17;Subtracted instead of added;0.5
-    2. Rectangle                            2. Rectangle & Rect & Parallelogram & Paralelogram & Square; Can't be a square because side C and side B are longer than A and D; 0.5
-    3. 4/5                                  3. 4/5 & 0.8
-    4. (4, 5)                               4. (4, 5) & (4,5) & 4, 5 & 4,5 & x = 4, y = 5 & 5, 4 | (5, 4) ; Values are switched! ; 0.5 & (-4, -5) | -4, -5 ; x and y must be positive in order to make the left side equal to zero ; 0.5
-    5. 342.56                               5. 342.57 ; Range 1.0 & 342.57 ; Range 1.0 to 5.0 ; 0.5 ; Didn't multiply by acceleration?
+Student file format examples:
+1. 23
+2. Rectangle
+3. 4/5
+4. (4, 5)                               
+5. 342.56
+
+Solution file format examples:
+1. 23 & 23.0 & 92;Multiplied by 2 instead of dividing;0.0 & 17;Subtracted instead of added;0.5
+2. Rectangle & Rect & Parallelogram & Paralelogram & Square; Can't be a square because side C and side B are longer than A and D; 0.5
+3. 4/5 & 0.8
+4. (4, 5) & (4,5) & 4, 5 & 4,5 & x = 4, y = 5 & 5, 4 | (5, 4) ; Values are switched! ; 0.5 & (-4, -5) | -4, -5 ; x and y must be positive in order to make the left side equal to zero ; 0.5
+5. 342.57 ; Range 1.0 & 342.57 ; Range 1.0 to 5.0 ; 0.5 ; Didn't multiply by acceleration?
