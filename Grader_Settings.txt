@@ -1,0 +1,8 @@
+Spaces Matter? false
+Use automatic alternate solutions? true
+Default point value? 1
+Manually enter solutions? false
+List order matters? false
+Convert fractions to decimals? true
+Create results files for each student when grading? true
+Include algebraic substitutions? true
